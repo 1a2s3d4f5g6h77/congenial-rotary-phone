@@ -1,0 +1,3 @@
+git remote add origin https://github.com/1a2s3d4f5g6h77/congenial-rotary-phone.git
+ git branch -M main 
+git push -u origin main
